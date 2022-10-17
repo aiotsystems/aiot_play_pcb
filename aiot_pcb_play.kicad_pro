@@ -347,9 +347,7 @@
     "pinned_footprint_libs": [
       "iot_lib"
     ],
-    "pinned_symbol_libs": [
-      "heat_humidity_mesh_lib"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
     "filename": "aiot_pcb_play.kicad_pro",
