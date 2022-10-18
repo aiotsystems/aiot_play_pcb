@@ -6,10 +6,11 @@
 
   (title_block
     (title "AIOT Play Schematic")
-    (date "2022-04-29")
-    (rev "v1.0")
+    (date "2022-10-18")
+    (rev "v1.1")
     (company "INRIA")
     (comment 1 "Charles Thonier")
+    (comment 2 "Said Alvarado-Marin")
   )
 
   (lib_symbols
